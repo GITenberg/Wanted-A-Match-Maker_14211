@@ -1,0 +1,46 @@
+_repo: Wanted-A-Match-Maker_14211
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Christy, Howard Chandler
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '4540'
+    url: http://www.gutenberg.org/2009/agents/4540
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Chandler_Christy
+  - agent_name: Armstrong, Margaret
+    aliases:
+    - Armstrong, Margaret Neilson
+    - Armstrong, M. N. (Margaret Nielson)
+    - Neilson Armstrong, Margaret
+    birthdate: 1867
+    deathdate: 1944
+    gutenberg_agent_id: '5459'
+    url: http://www.gutenberg.org/2009/agents/5459
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ford, Paul Leicester
+    birthdate: 1865
+    deathdate: 1902
+    gutenberg_agent_id: '1851'
+    url: http://www.gutenberg.org/2009/agents/1851
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Leicester_Ford
+description: ''
+gutenberg_issued: '2004-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medical fiction'
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Love stories'
+title: Wanted—A Match Maker
+url: http://www.gutenberg.org/ebooks/14211
